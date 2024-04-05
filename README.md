@@ -1,14 +1,17 @@
 ### GitHub Buddy
 
 ```markdown
-GitHub Buddy is a simple web application built with React that allows users to search for GitHub profiles and view user information along with their repositories.
+GitHub Buddy is a simple web application built with React that allows users to 
+search for GitHub profiles and view user information along with their repositories.
 
 
 ## Features
 
 - Search for GitHub profiles by username.
-- View user information including avatar, name, bio, followers, following, and public repositories.
-- Access a list of repositories for the searched user with links to the repositories on GitHub.
+- View user information including avatar, name, bio, followers, following, and 
+public repositories.
+- Access a list of repositories for the searched user with links to the repositories
+ on GitHub.
 - Responsive design for seamless usage on different devices.
 
 ## Live Demo
@@ -55,10 +58,11 @@ To run GitHub Buddy locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request for any features, fixes, or enhancements you'd like to contribute.
+Contributions are welcome! Feel free to open an issue or submit a pull request for
+any features, fixes, or enhancements you'd like to contribute.
 
 ## License
 
 This project is licensed under the [MIT License](https://github.com/ashishmisal23/GitHub-Buddy/blob/main/LICENSE).
-```
+
 
