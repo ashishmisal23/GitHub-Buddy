@@ -1,9 +1,8 @@
-```markdown
-# GitHub Buddy
+### GitHub Buddy
 
+```markdown
 GitHub Buddy is a simple web application built with React that allows users to search for GitHub profiles and view user information along with their repositories.
 
-![GitHub Buddy Screenshot](https://github.com/ashishmisal23/GitHub-Buddy/blob/main/public/screenshot.png)
 
 ## Features
 
