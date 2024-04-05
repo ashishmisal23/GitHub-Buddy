@@ -119,9 +119,11 @@ button:hover {
     font-weight: 900;
     font-size: 30px;
     font-family: Poppins, sans-serif;
+}
 
-
-
+.user-info p{
+    padding: 3px;
+    font-size: 16px;
 }
 
 .info {
